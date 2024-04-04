@@ -1,0 +1,7 @@
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe.config
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\bin\Debug\FirstLesson.exe
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\bin\Debug\FirstLesson.pdb
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.AssemblyReference.cache
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\obj\Debug\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\obj\Debug\FirstLesson.exe
+C:\Users\mmark\Documents\GitHub\LearningCShatp\FirstLesson\FirstLesson\obj\Debug\FirstLesson.pdb
